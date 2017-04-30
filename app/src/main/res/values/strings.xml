@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVP Demo</string>
+    <string name="error_network_connection">Connection error!!!\nPlease check your connection</string>
+    <string name="message_empty_message">No item available</string>
+</resources>
